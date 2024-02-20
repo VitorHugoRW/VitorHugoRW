@@ -4,19 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vitor+Hugo;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-- 👨‍💻 Atualmende sou Desenvolvedor Web.
+- 👨‍💻 Atualmende sou Desenvolvedor Full-Stack.
 - 😍 Sou Apaixonado por tecnologia!. 
+- 📝 Cursando Análise e Desenvolvimento de Sistemas. 
 
 
-<div align="center">
-  <a href="https://github.com/VitorHugoRW">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorHugoRW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorHugoRW&bg_color=212145&color=ffffff&line=4350fe&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
   
- ### Utilizo no dia a dia: 
+ ### Tecnologias que utilizo no dia a dia: 
 <div style="display: inline_block" align="center"><br>
   <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
